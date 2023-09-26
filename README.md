@@ -15,7 +15,7 @@ This project serves as a demonstration of my technical abilities in software eng
 
 6. **Translation and Localization:** Adding support for multilingual functionality.
 
-7. 7. **Clean Code:** Emphasizing clean, maintainable, and well-documented code practices throughout the project.
+7. **Clean Code:** Emphasizing clean, maintainable throughout the project.
 
 
 ## Technologies Used
